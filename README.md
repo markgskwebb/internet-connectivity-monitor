@@ -85,6 +85,8 @@ You can either use the default internet address and frequency (google.com every 
 GNU General Public License. See LICENSE.TXT before distributing/modifying this program.
 
 
-2010 - 2013 
+2010 - 2013
+
 Written in Java using Eclipse
+
 Developer: Genc Alikaj
